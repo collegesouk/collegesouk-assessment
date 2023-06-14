@@ -1,9 +1,9 @@
 ## Prerequisites
 
-1 - XCode for iOS device simulator (recommended); or android studio for android(https://www.kindacode.com/article/how-to-install-an-ios-simulator-in-xcode/)  or (https://www.alphr.com/run-android-emulator/)
+1 - XCode for iOS device simulator (recommended - only compatible with Mac); or android studio for Windows machine(https://www.kindacode.com/article/how-to-install-an-ios-simulator-in-xcode/)  or (https://www.alphr.com/run-android-emulator/)
 
 2 - VSCode Studio Code (https://code.visualstudio.com/)
-
+ 
 3 - Package manager; we prefer npm but you can use whatever you want (e.g: yarn)(https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/)
 
 3 - node.js (https://nodejs.org/en/download/) or using package manager (https://nodejs.org/tr/download/package-manager/)
