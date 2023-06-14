@@ -1,6 +1,6 @@
 ## Prerequisites
 
-1 - XCode for iOS device simulator (recommanded); or android studio for android(https://www.kindacode.com/article/how-to-install-an-ios-simulator-in-xcode/)  or (https://www.alphr.com/run-android-emulator/)
+1 - XCode for iOS device simulator (recommended); or android studio for android(https://www.kindacode.com/article/how-to-install-an-ios-simulator-in-xcode/)  or (https://www.alphr.com/run-android-emulator/)
 
 2 - VSCode Studio Code (https://code.visualstudio.com/)
 
